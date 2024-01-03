@@ -1,6 +1,6 @@
 {
-    "name": "health_project",
-    "short_name": "health_project",
+    "name": "health_care",
+    "short_name": "health_care",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
